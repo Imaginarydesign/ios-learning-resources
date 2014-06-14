@@ -8,10 +8,16 @@ In my efforts to learn the new language, I will be adding regularly as I step th
 
 #####Free
 
-* [How To Make iPhone Apps With No Programming Experience](http://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/)
-* [Build an iOS App](http://designcode.io/xcode)
-* [How To Create A Simple iPhone App](http://www.raywenderlich.com/1797/ios-tutorial-how-to-create-a-simple-iphone-app-part-1)
-* 
+* [How To Make iPhone Apps With No Programming Experience](http://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/) - codewithchris.com
+* [How To Make iPhone Apps – An XCode 5 Tutorial For Beginners](http://codewithchris.com/xcode-tutorial/) - codewithchris.com
+* [Build an iOS App](http://designcode.io/xcode) - designcode.io
+* [How To Create A Simple iPhone App](http://www.raywenderlich.com/1797/ios-tutorial-how-to-create-a-simple-iphone-app-part-1) - raywenderlich.com
+* [The beginners guide to developing iOS apps](http://www.creativebloq.com/iphone/how-to-make-iphone-apps-10122810) - Creative Bloq
+* [A Guide To iOS App Development For Web Designers](http://www.smashingmagazine.com/2012/09/10/ios-sdk-for-designers/) - Smashing Magazine
+* [Simple iPhone app development tutorial](http://ricochetshooter.wordpress.com/2012/02/12/simple-iphone-app-development-tutorial/) - Ricochet Shooter
+* [How To Create Your First iPhone App (2012 Edition)](http://www.smashingmagazine.com/2009/08/11/how-to-create-your-first-iphone-application/) - Smashing Magazine
+* [Beginner’s Guide To IOS Development: The Interface](http://www.hongkiat.com/blog/ios-development-guide-part1/) - Hongkiat
+* [iOS 6 and the Social Framework: Twitter Requests](http://code.tutsplus.com/tutorials/ios-6-and-the-social-framework-twitter-requests--mobile-14840) - Tuts+
 
 ***Swift***
 
