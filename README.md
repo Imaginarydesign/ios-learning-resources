@@ -6,17 +6,26 @@ In my efforts to learn the new language, I will be adding regularly as I step th
 
 ##Tutorials
 
-####Free
+#####Free
 
-**Swift**
+* [Developing iOS Apps Using Swift (Jameson Quave Tutorial)](http://jamesonquave.com/blog/developing-ios-apps-using-swift-tutorial/)
+* [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/) - Apple
 
-* [Developing iOS Apps Using Swift (Jameson Quave Tutorial)](http://jamesonquave.com/blog/developing-ios-apps-using-swift-tutorial/)  
+#####Paid
 
-####Paid
+* 
 
 ---
 
 ##Books
+
+#####Free
+
+* [The Swift Programming Language](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11) - Itunes
+
+#####Paid
+
+* 
 
 ---
 
