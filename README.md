@@ -46,4 +46,10 @@ Require Xcode6 which currently is only available for Apple **paid** Developer ac
 
 ---
 
+##Resources
+
+* [The best resources for learning iOS design and Xcode](http://designcode.io/learn)
+
+
+
 
